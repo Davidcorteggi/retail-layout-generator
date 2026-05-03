@@ -1,0 +1,6 @@
+requirements.txt
+-----------------
+python>=3.12
+streamlit>=1.30.0
+pillow>=10.0.0
+# Add additional dependencies for DWG/DXF processing, graph neural nets, FAISS, Pyomo, etc.
